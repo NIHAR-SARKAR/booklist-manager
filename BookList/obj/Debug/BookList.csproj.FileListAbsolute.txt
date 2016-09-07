@@ -1,0 +1,14 @@
+c:\users\ritz\documents\visual studio 2012\Projects\BookList\BookList\obj\Debug\BookList.csprojResolveAssemblyReference.cache
+c:\users\ritz\documents\visual studio 2012\Projects\BookList\BookList\obj\Debug\BookList.Form1.resources
+c:\users\ritz\documents\visual studio 2012\Projects\BookList\BookList\obj\Debug\BookList.Properties.Resources.resources
+c:\users\ritz\documents\visual studio 2012\Projects\BookList\BookList\obj\Debug\BookList.csproj.GenerateResource.Cache
+c:\users\ritz\documents\visual studio 2012\Projects\BookList\BookList\bin\Debug\BookList.exe.config
+c:\users\ritz\documents\visual studio 2012\Projects\BookList\BookList\bin\Debug\BookList.exe
+c:\users\ritz\documents\visual studio 2012\Projects\BookList\BookList\bin\Debug\BookList.pdb
+c:\users\ritz\documents\visual studio 2012\Projects\BookList\BookList\bin\Debug\MaterialSkin.dll
+c:\users\ritz\documents\visual studio 2012\Projects\BookList\BookList\obj\Debug\BookList.exe
+c:\users\ritz\documents\visual studio 2012\Projects\BookList\BookList\obj\Debug\BookList.pdb
+c:\users\ritz\documents\visual studio 2012\Projects\BookList\BookList\obj\Debug\BookList.Form2.resources
+C:\Users\RITZ\documents\visual studio 2012\Projects\BookList\BookList\obj\Debug\BookList.Form3.resources
+C:\Users\RITZ\documents\visual studio 2012\Projects\BookList\BookList\obj\Debug\BookList.Form4.resources
+C:\Users\RITZ\documents\visual studio 2012\Projects\BookList\BookList\obj\Debug\BookList.Splash.resources
